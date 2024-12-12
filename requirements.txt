@@ -1,1 +1,3 @@
-
+Code(6pts): Submit a link to your public github repo
+Presentation of Analysis(18pts): Submit your presentation with your analysis and present on the final exam time.
+Reflection(6pts): Submit a group reflection
